@@ -1,0 +1,6 @@
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\bin\Debug\B7N.exe.config
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\bin\Debug\B7N.exe
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\bin\Debug\B7N.pdb
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\obj\Debug\B7N.csprojResolveAssemblyReference.cache
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\obj\Debug\B7N.exe
+C:\Users\AC1D-R4IN\Desktop\B7N\B7N\obj\Debug\B7N.pdb

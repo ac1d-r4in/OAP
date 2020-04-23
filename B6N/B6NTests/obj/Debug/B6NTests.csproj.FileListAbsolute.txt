@@ -1,0 +1,7 @@
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\bin\Debug\B6NTests.dll
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\bin\Debug\B6NTests.pdb
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\bin\Debug\B6N.exe
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\bin\Debug\B6N.pdb
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\obj\Debug\B6NTests.csprojResolveAssemblyReference.cache
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\obj\Debug\B6NTests.dll
+C:\Users\AC1D-R4IN\Desktop\B6N\B6NTests\obj\Debug\B6NTests.pdb

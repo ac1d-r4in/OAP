@@ -1,0 +1,7 @@
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\bin\Debug\B7NTests.dll
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\bin\Debug\B7NTests.pdb
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\bin\Debug\B7N.exe
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\bin\Debug\B7N.pdb
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\obj\Debug\B7NTests.csprojResolveAssemblyReference.cache
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\obj\Debug\B7NTests.dll
+C:\Users\AC1D-R4IN\Desktop\B7N\B7NTests\obj\Debug\B7NTests.pdb
